@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * Main - A program that prints lines using write function
+ * main - A program that prints lines using write function
  * Return: Always 1(success)
  */
 int main(void)
