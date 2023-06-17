@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - print the last digit of a randomly generated number
+ * main - print the last digit of a randomly generated number put
  *and provides additional information about it
+ *
  * Return: 0(success)
  */
 int main(void)
