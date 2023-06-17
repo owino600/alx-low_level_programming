@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Main - A program that print the size of computers using printf function
+ * main - A program that print the size of computers using printf function
  *
  * Return: Always 0(success)
  */
