@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print number between 0 to 9 and letter between q to f
+ * main - print number between 0 to 9 and letter between a to f
  *
  * Return: Always 0(success)
  */
@@ -16,7 +16,7 @@ int main(void)
 	{
 		putchar(i);
 	}
-	putchar('\n');
+	putchar('\n')i;
 	return (0);
 
 }
