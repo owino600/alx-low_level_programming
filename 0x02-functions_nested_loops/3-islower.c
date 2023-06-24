@@ -5,9 +5,9 @@
  * @c: the character is ASCII code
  * return: 1 for lower case deposit 0 for the rest
  */
-int islower(int c)
+int _islower(int c)
 {
-	if (c >= 97; &&c <= 122)
+	if (c >= 'a' && c <= 'z')
 	{
 		return (1);
 	}
